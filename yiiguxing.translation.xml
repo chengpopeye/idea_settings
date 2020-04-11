@@ -1,0 +1,17 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="6: only buildscript {} and other plugins {} script blocks are allowed before plugins {} blocks, no other statements are allowed" />
+      <item value="Unable to start the daemon process. This problem might be caused by incorrect configuration of the daemon. For example, an unrecognized jvm option is used. Please refer to the User Manual chapter on the daemon at https://docs.gradle.org/5.6.4/userguide/gradle_daemon.html Process command line: D:\Java\jdk1.8.0_131\bin\java.exe -Xmx1536M -Dfile.encoding=GBK -Duser.country=CN -Duser.language=zh -Duser.variant -cp C:\Users\popeye\.gradle\wrapper\dists\gradle-5.6.4-bin\bxirm19lnfz6nurbatndyydux\gradle-5.6.4\lib\gradle-launcher-5.6.4.jar org.gradle.launcher.daemon.bootstrap.GradleDaemon 5.6.4 Please read the following process output to find out more:" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>

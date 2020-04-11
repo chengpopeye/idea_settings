@@ -1,0 +1,10 @@
+<application>
+  <component name="SpaceServerConfigurable">
+    <option name="serverSettings">
+      <CircletServerSettings>
+        <option name="enabled" value="true" />
+        <option name="server" value="https://codes.jetbrains.space" />
+      </CircletServerSettings>
+    </option>
+  </component>
+</application>

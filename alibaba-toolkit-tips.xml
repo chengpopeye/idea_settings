@@ -1,0 +1,16 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/Desktop/spring-framework-5.2.5.RELEASE" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/IdeaProjects/Java学习" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/IdeaProjects/springclouddemo/eureka-server" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/IdeaProjects/test01" firstStartUp="false" />
+    <entry projectName="D:/Java/boot-redis" firstStartUp="false" />
+    <entry projectName="D:/Source/spring-framework-5.2.5.RELEASE" firstStartUp="false" />
+    <entry projectName="G:/JavaCore" firstStartUp="false" />
+    <entry projectName="G:/mybatis-3" firstStartUp="false" />
+    <entry projectName="G:/spring-framework" firstStartUp="false" />
+    <entry projectName="G:/spring-framework-5.2.5.RELEASE" firstStartUp="false" />
+    <entry projectName="H:/spring-framework" firstStartUp="false" />
+  </component>
+</application>

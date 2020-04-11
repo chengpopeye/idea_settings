@@ -1,0 +1,15 @@
+<code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
+    <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
+    <REPEAT_ANNOTATIONS>
+      <ANNO name="java.lang.Override" />
+    </REPEAT_ANNOTATIONS>
+  </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+  </codeStyleSettings>
+</code_scheme>
