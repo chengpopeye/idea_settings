@@ -7,7 +7,7 @@
     </REPEAT_ANNOTATIONS>
   </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
-    <option name="WRAP_ON_TYPING" value="1" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <option name="USE_ACTUAL_CHAR_WIDTH" value="false" />
   </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="JAVA">
