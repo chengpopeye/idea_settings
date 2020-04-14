@@ -6,6 +6,9 @@
       <ANNO name="java.lang.Override" />
     </REPEAT_ANNOTATIONS>
   </JavaCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="WRAP_ON_TYPING" value="1" />
+  </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
