@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/Desktop/parent-master" firstStartUp="false" />
     <entry projectName="$USER_HOME$/Desktop/spring-framework-5.2.5.RELEASE" firstStartUp="false" />
     <entry projectName="$USER_HOME$/IdeaProjects/Java学习" firstStartUp="false" />
     <entry projectName="$USER_HOME$/IdeaProjects/springclouddemo/eureka-server" firstStartUp="false" />
