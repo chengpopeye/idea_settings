@@ -10,6 +10,9 @@
         <option name="passedTest" value="true" />
       </AliyunOssState>
     </option>
+    <option name="changeToHtmlTag" value="true" />
+    <option name="compress" value="true" />
+    <option name="compressBeforeUploadOfPercent" value="51" />
     <option name="copyToDir" value="true" />
     <option name="qiniuOssState">
       <QiniuOssState>
@@ -21,6 +24,8 @@
         <option name="passedTest" value="true" />
       </QiniuOssState>
     </option>
+    <option name="tagType" value="正常的" />
+    <option name="tagTypeCode" value="&lt;a title='${title}' href='${path}' &gt;![${title}](${path})&lt;/a&gt;" />
     <option name="tencentOssState">
       <TencentOssState>
         <option name="oldAndNewAuthInfo">
