@@ -1,4 +1,5 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="Console.TableResult.SetNull" />
   <action id="ExportSettings">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
@@ -6,7 +7,11 @@
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="GotoChangedFile" />
+  <action id="Inline" />
   <action id="NewElementInMenuGroup">
     <mouse-shortcut keystroke="button1" />
+  </action>
+  <action id="WelcomeScreen.Configure.Export">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
 </keymap>
