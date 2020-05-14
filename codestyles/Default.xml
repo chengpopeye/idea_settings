@@ -10,6 +10,9 @@
     <option name="WRAP_ON_TYPING" value="0" />
     <option name="USE_ACTUAL_CHAR_WIDTH" value="false" />
   </MarkdownNavigatorCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
