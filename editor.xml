@@ -1,21 +1,14 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
-  </component>
-  <component name="CodeInsightSettings">
-    <option name="COMPLETION_CASE_SENSITIVE" value="1" />
-    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-  </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Monaco" />
-    <option name="LINE_SPACING" value="1.0" />
-    <option name="USE_LIGATURES" value="true" />
+    <option name="LINE_SPACING" value="1.3" />
+    <option name="SECONDARY_FONT_FAMILY" value="Courier New" />
   </component>
   <component name="EditorSettings">
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
 </application>
